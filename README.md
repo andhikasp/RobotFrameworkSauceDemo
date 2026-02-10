@@ -73,9 +73,13 @@ pip install -r requirements.txt
 
 ### 4️⃣ Driver Browser
 
-**Tidak perlu install manual!** 🎉
+Pastikan browser driver sudah terinstall dan ada di PATH sistem Anda:
 
-Project ini menggunakan `webdriver-manager` yang otomatis mendownload dan mengatur driver browser (Chrome/Firefox/Edge) sesuai versi browser Anda.
+- **Chrome**: Download [ChromeDriver](https://chromedriver.chromium.org/)
+- **Firefox**: Download [GeckoDriver](https://github.com/mozilla/geckodriver/releases)
+- **Edge**: Download [EdgeDriver](https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/)
+
+> 💡 **Tip**: Atau gunakan package manager seperti `choco install chromedriver` (Windows) atau `brew install chromedriver` (Mac)
 
 ## 🎯 Cara Menjalankan Test
 
