@@ -38,6 +38,15 @@ Suite tes otomatis untuk website [SauceDemo](https://www.saucedemo.com/) menggun
 
 ## 🚀 Persiapan (Setup)
 
+### 0️⃣ Clone Repository
+
+Clone repository ini ke komputer Anda:
+
+```bash
+git clone https://github.com/andhikasp/RobotFrameworkSauceDemo.git
+cd RobotFrameworkSauceDemo
+```
+
 ### 1️⃣ Install Python
 
 Pastikan Python versi **3.8 atau lebih baru** sudah terinstall di komputer Anda.
